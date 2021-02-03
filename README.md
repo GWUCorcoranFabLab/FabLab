@@ -7,7 +7,7 @@ The Corcoran Fab Lab is comprised of two divisions:
 2. The Print Bureau
 
 ## Fab Lab MakerSpace
-The MakerSpace currently has three Universal Laser Systems lasers (one VLS 4.60 60W laser, two PLS 4.75 75W laser, both are 18"x24" area), two Roland MDX-40a desktop CNC routers, and ***once approved*** will have eight Makerbot Replicator+ 3D printers (capable of PLA only).
+The MakerSpace currently has three Universal Laser Systems lasers (one VLS 4.60 60W laser, two PLS 4.75 75W laser, both are 18"x24" area), two Roland MDX-40a desktop CNC routers, and eight Makerbot Replicator+ 3D printers (capable of PLA only).
 
 ## Fab Lab Print Bureau
 The Print Bureau currently has two Epson SureColor P8000 (44") and two Epson Stylus Pro 7900 (24"). There are no longer any large format printers in Flagg; printing will be done by service bureau staff and students will have no access to the printers themselves.
